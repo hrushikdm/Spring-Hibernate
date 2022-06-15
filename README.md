@@ -5,4 +5,4 @@ For example:
              What are Dependencies,
              What are IoC,
              What is Bean,
-             How to Configure using .Xml file... etc.
+             How to Configure using .Xml file.. etc.
